@@ -1,0 +1,14 @@
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\bin\Debug\netcoreapp2.2\UnitTesting.API.deps.json
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\bin\Debug\netcoreapp2.2\UnitTesting.API.runtimeconfig.json
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\bin\Debug\netcoreapp2.2\UnitTesting.API.runtimeconfig.dev.json
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\bin\Debug\netcoreapp2.2\UnitTesting.API.dll
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.csprojAssemblyReference.cache
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.csproj.CoreCompileInputs.cache
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.RazorAssemblyInfo.cache
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.RazorAssemblyInfo.cs
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.AssemblyInfoInputs.cache
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.AssemblyInfo.cs
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.RazorTargetAssemblyInfo.cache
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\bin\Debug\netcoreapp2.2\UnitTesting.API.pdb
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.dll
+D:\Bratin Kundu\UnitTestingAssignment\UnitTesting.API\obj\Debug\netcoreapp2.2\UnitTesting.API.pdb
